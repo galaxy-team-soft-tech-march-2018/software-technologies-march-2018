@@ -10,12 +10,14 @@ namespace _03.MilesToKilometers
     {
         static void Main(string[] args)
         {
+            // We reading the distance in miles
             var distanceInMiles = double.Parse(Console.ReadLine());
+            // It is a constant for converting miles to kilometers
             const double kilometersPerMile = 1.60934;
+            // We multiply the constant with the miles
             var distanceInKilometers = distanceInMiles * kilometersPerMile;
-
+            // We printing the result to 2th decimal place
             Console.WriteLine("{0:F2}", distanceInKilometers);
-
         }
     }
 }
