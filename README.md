@@ -1,70 +1,17 @@
 # software-technologies-march-2018
 
-### Problem 3.             
-Miles to Kilometers
+---
 
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
+### Problem 3.Miles to Kilometers
+Write a program, which converts** miles to kilometers . Format the output to the 2**
 
 nd
-decimal place**.
+decimal place.
 
-Note: **1
-mile == 1.60934 kilometers**
+Note: 1 mile == 1.60934 kilometers
 
-#### Examples
+Examples
+Input	Output		Input	Output		Input	Output
+60	96.56	1	1.61	52.1113	83.86	
 
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
+---
