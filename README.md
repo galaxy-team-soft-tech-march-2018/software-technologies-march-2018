@@ -1,5 +1,11 @@
 # software-technologies-march-2018
 
+# Galaxy Team Project
+
+## Exercises: C# Intro and Basic Syntax
+
+Problems for exercises and homework for the [&quot;Programming Fundamentals Extended&quot; course @ SoftUni](https://softuni.bg/courses/programming-fundamentals).
+
 ---
 
 ### Problem 3.Miles to Kilometers
@@ -10,8 +16,16 @@ Note: **1 mile == 1.60934 kilometers**
 
 ### Examples
 
-| **Input** | **Output** |   | **Input** | **Output** |   | **Input** | **Output** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 60 | 96.56 | 1 | 1.61 | 52.1113 | 83.86 |
+| **Input** | **Output** |
+| --- | --- |
+| 60 | 96.56 |
+
+| **Input** | **Output** |
+| --- | --- |
+| 1 | 1.61 |
+
+| **Input** | **Output** |
+| --- | --- |
+| 52.1113 | 83.86 |
 
 ---
