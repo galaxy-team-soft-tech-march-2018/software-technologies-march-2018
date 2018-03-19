@@ -29,3 +29,42 @@ Note: **1 mile == 1.60934 kilometers**
 | 52.1113 | 83.86 |
 
 ---
+
+### Problem 2. Rectangle Area
+
+Write a program, which calculates a **rectangle’s area**,
+based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, 
+**formatted to the 2nd character after the decimal point**.
+
+Examples
+
+**Input**
+
+2
+
+7
+
+
+7
+
+8
+ 
+
+12.33
+
+5
+
+  
+**Output**
+
+ 
+
+14.00
+
+ 
+
+56.00
+
+ 
+
+61.65
