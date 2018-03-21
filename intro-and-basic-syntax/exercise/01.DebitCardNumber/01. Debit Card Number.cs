@@ -12,18 +12,18 @@ namespace _01.DebitCardNumber
         {
             // Reading the input from the console
             // We read first digit of Debit Card
-            var firstDigits = long.Parse(Console.ReadLine());
+            var getFirstDigit = long.Parse(Console.ReadLine());
             // We read second digit of Debit Card
-            var secondDigits = long.Parse(Console.ReadLine());
+            var getSecondDigit = long.Parse(Console.ReadLine());
             // We read third digit of Debit Card
-            var thirdDigits = long.Parse(Console.ReadLine());
+            var getThirdDigit = long.Parse(Console.ReadLine());
             // We read fourth digit of Debit Card
-            var fourthDigits = long.Parse(Console.ReadLine());
+            var getFourthDigit = long.Parse(Console.ReadLine());
 
         // Printing the result on the Console in 4-digit debit card format
 
             //We print de result
-            Console.WriteLine($"{firstDigits:D4} {secondDigits:D4} {thirdDigits:D4} {fourthDigits:D4}");
+            Console.WriteLine($"{getFirstDigit:D4} {getSecondDigit:D4} {getThirdDigit:D4} {getFourthDigit:D4}");
         }
     }
 }
