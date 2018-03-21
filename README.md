@@ -6,33 +6,36 @@
 
 Problems for exercises and homework for the [&quot;Programming Fundamentals Extended&quot; course @ SoftUni](https://softuni.bg/courses/programming-fundamentals).
 
----
-
-### Problem 3.Miles to Kilometers
-
-Write a program, which **converts** miles **to** kilometers **.** Format **the output to the** 2nd **decimal place**.
-
-Note: **1 mile == 1.60934 kilometers**
+### Problem 1.Debit Card Number
+Write a progran, which receives **4 integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 ### Examples
+| **Input** | **Output** |
+| --- | --- |
+| 12 | 0012 0433 0001 5331 |
+| 433   |
+| 1   |
+| 5331   |
 
 | **Input** | **Output** |
 | --- | --- |
-| 60 | 96.56 |
+| 9182 | 9182 4221 0012 0003 |
+| 4221   |
+| 12   |
+| 3   |
 
 | **Input** | **Output** |
 | --- | --- |
-| 1 | 1.61 |
-
-| **Input** | **Output** |
-| --- | --- |
-| 52.1113 | 83.86 |
+| 812 | 0812 0321 0123 0022 |
+| 321   |
+| 123   |
+| 22   |
 
 ---
 
 ### Problem 2. Rectangle Area
 
-Write a program, which calculates a **rectangle’s area**,
+Write a program, which calculates a **rectangleï¿½s area**,
 based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, 
 **formatted to the 2nd character after the decimal point**.
 
@@ -68,3 +71,27 @@ Examples
  
 
 61.65
+
+---
+
+### Problem 3.Miles to Kilometers
+
+Write a program, which **converts** miles **to** kilometers **.** Format **the output to the** 2nd **decimal place**.
+
+Note: **1 mile == 1.60934 kilometers**
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| 60 | 96.56 |
+
+| **Input** | **Output** |
+| --- | --- |
+| 1 | 1.61 |
+
+| **Input** | **Output** |
+| --- | --- |
+| 52.1113 | 83.86 |
+
+
