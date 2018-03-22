@@ -8,6 +8,7 @@ namespace Problem_2.Rectangle_Area
 {
     class Program
     {
+        // confirmed from mariyast1
         static void Main(string[] args)
         {
             // We getting the width of the rectangle
